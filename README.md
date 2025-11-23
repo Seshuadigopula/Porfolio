@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://your-portfolio-link.com" target="_blank">Seshukumar.dev</a>
+  <a href="https://seshukumar-portfolio.netlify.app/" target="_blank">Seshukumar.dev</a>
 </h2>
 
 <div align="center">
